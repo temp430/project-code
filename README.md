@@ -16,6 +16,6 @@ Team members:
 
 ## Code documentation
 
-- Baseline.ipynb: code for presentation 2
-- Model.ipynb: code for ML part of presentation 3
+- `Baseline.ipynb`: code for presentation 2
+- `Model.ipynb`: code for ML part of presentation 3
 - 
