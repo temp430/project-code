@@ -3,9 +3,6 @@
 ## Contribution
 
 Online resources: 
-
-- LDA
-
 - TabNet - Optuna for fine-tuning
 - TabNet - FeatureBlock (from [Ghost Batch Normalisation](https://github.com/ostamand/tensorflow-tabnet/blob/master/tabnet/models/gbn.py))
 
