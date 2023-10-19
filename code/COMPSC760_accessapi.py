@@ -1,4 +1,4 @@
-secrete_key = 'sk-c4Bc31u7nZ6DWAchRdehT3BlbkFJlzqzhnKMWn7p'
+secrete_key = 'null'
 prompt ='After reading the information on the company: '
 feature_name=""
 question_1 = 'Please answer what the ' 
