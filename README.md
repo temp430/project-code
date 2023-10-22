@@ -21,7 +21,7 @@ Team members:
 - 
 
 
-## Overview
+## Overview of NLP part
 
 The purpose of the code is to digest large set of financial statements in pdf format and try to exrtact the most relevant part of the statement and then pass the result into ChatGPT to work out the 18 features which can be used by the machine learning models TabNet and XGBoost
 
