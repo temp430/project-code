@@ -1,0 +1,2082 @@
+Wells Fargo & Company and Subsidiaries 
+
+Consolidated Statement of Comprehensive Income (Unaudited) 
+
+(in millions) 
+
+Wells Fargo net income 
+
+Other comprehensive income (loss), before tax: 
+
+Investment securities: 
+
+Net unrealized gains (losses) arising during the period 
+
+Reclassification of net gains to net income 
+
+Derivatives and hedging activities: 
+
+Net unrealized gains (losses) arising during the period 
+
+Reclassification of net gains on cash flow hedges to net income 
+
+Defined benefit plans adjustments: 
+
+Net actuarial losses arising during the period 
+
+Amortization of net actuarial loss, settlements and other to net income 
+
+Foreign currency translation adjustments: 
+
+Net unrealized gains (losses) arising during the period 
+
+Other comprehensive income (loss), before tax 
+
+Income tax (expense) benefit related to other comprehensive income 
+
+Other comprehensive income (loss), net of tax 
+
+Less: Other comprehensive income (loss) from noncontrolling interests 
+
+Wells Fargo other comprehensive income (loss), net of tax 
+
+Wells Fargo comprehensive income 
+
+Comprehensive income from noncontrolling interests 
+
+Quarter ended Sep 30, 
+
+Nine months ended Sep 30, 
+
+2016 
+
+$ 
+
+5,644 
+
+2015 
+
+5,796 
+
+2016 
+
+16,664 
+
+2015 
+
+17,319 
+
+112 
+
+(193) 
+
+(445) 
+
+(262) 
+
+(447) 
+
+39 
+
+(10) 
+
+(1,206) 
+
+461 
+
+(745) 
+
+19 
+
+(764) 
+
+4,880 
+
+29 
+
+(441) 
+
+(439) 
+
+1,769 
+
+(293) 
+
+— 
+
+30 
+
+(59) 
+
+567 
+
+(268) 
+
+299 
+
+(22) 
+
+321 
+
+6,117 
+
+165 
+
+6,282 
+
+2,478 
+
+(1,001) 
+
+2,611 
+
+(783) 
+
+(474) 
+
+115 
+
+27 
+
+2,973 
+
+(1,110) 
+
+1,863 
+
+(24) 
+
+1,887 
+
+18,551 
+
+53 
+
+(2,017) 
+
+(957) 
+
+2,233 
+
+(795) 
+
+(11) 
+
+103 
+
+(104) 
+
+(1,548) 
+
+544 
+
+(1,004) 
+
+125 
+
+(1,129) 
+
+16,190 
+
+459 
+
+18,604 
+
+16,649 
+
+Total comprehensive income 
+
+$ 
+
+4,909 
+
+The accompanying notes are an integral part of these statements. 
+
+70 
+
+Wells Fargo & Company and Subsidiaries 
+Consolidated Balance Sheet 
+
+(in millions, except shares) 
+
+Assets 
+
+Cash and due from banks 
+
+Federal funds sold, securities purchased under resale agreements and other short-term investments 
+
+Trading assets 
+
+Investment securities: 
+
+Available-for-sale, at fair value 
+
+Held-to-maturity, at cost (fair value $102,547 and $80,567) 
+
+Mortgages held for sale (includes $22,647 and $13,539 carried at fair value) (1) 
+
+Loans held for sale 
+
+Loans (includes $4,788 and $5,316 carried at fair value) (1) 
+
+Allowance for loan losses 
+
+Net loans 
+
+Mortgage servicing rights: 
+
+Measured at fair value 
+
+Amortized 
+
+Premises and equipment, net 
+
+Goodwill 
+
+Other assets (includes $3,441 and $3,065 carried at fair value) (1) 
+
+Total assets (2) 
+
+Liabilities 
+
+Noninterest-bearing deposits 
+
+Interest-bearing deposits 
+
+Total deposits 
+
+Short-term borrowings 
+
+Accrued expenses and other liabilities 
+
+Long-term debt 
+
+Total liabilities (3) 
+
+Equity 
+
+Wells Fargo stockholders' equity: 
+
+Preferred stock 
+
+Common stock – $1-2/3 par value, authorized 9,000,000,000 shares; issued 5,481,811,474 shares 
+
+Additional paid-in capital 
+
+Retained earnings 
+
+ Cumulative other comprehensive income 
+
+Treasury stock – 457,922,273 shares and 389,682,664 shares 
+
+Unearned ESOP shares 
+
+Total Wells Fargo stockholders' equity 
+
+Noncontrolling interests 
+
+Total equity 
+
+Total liabilities and equity 
+
+Sep 30, 
+2016 
+
+Dec 31, 
+2015 
+
+(Unaudited) 
+
+$ 
+
+19,287 
+
+298,325 
+
+85,946 
+
+19,111 
+
+270,130 
+
+77,202 
+
+291,591 
+
+267,358 
+
+99,241 
+
+27,423 
+
+183 
+
+961,326 
+
+(11,583) 
+
+949,743 
+
+10,415 
+
+1,373 
+
+8,322 
+
+26,688 
+
+123,587 
+
+80,197 
+
+19,603 
+
+279 
+
+916,559 
+
+(11,545) 
+
+905,014 
+
+12,415 
+
+1,308 
+
+8,704 
+
+25,529 
+
+100,782 
+
+$  1,942,124 
+
+1,787,632 
+
+$ 
+
+376,136 
+
+899,758 
+
+351,579 
+
+871,733 
+
+1,275,894 
+
+1,223,312 
+
+124,668 
+
+82,769 
+
+254,835 
+
+97,528 
+
+73,365 
+
+199,536 
+
+1,738,166 
+
+1,593,741 
+
+24,594 
+
+9,136 
+
+60,685 
+
+130,288 
+
+2,184 
+
+(22,247) 
+
+(1,612) 
+
+203,028 
+
+930 
+
+22,214 
+
+9,136 
+
+60,714 
+
+120,866
+
+297 
+
+(18,867) 
+
+(1,362) 
+
+192,998 
+
+893 
+
+203,958 
+
+193,891 
+
+$  1,942,124 
+
+1,787,632 
+
+(1) 	 Parenthetical amounts represent assets and liabilities for which we have elected the fair value option. 
+(2) 	 Our consolidated assets at September 30, 2016, and December 31, 2015, include the following assets of certain variable interest entities (VIEs) that can only be used to 
+settle the liabilities of those VIEs: Cash and due from banks, $145 million and $157 million; Federal funds sold, securities purchased under resale agreements and other 
+short-term investments, $90 million and $0 million; Trading assets, $130 million and $1 million; Investment securities, $244 million and $425 million; Net loans, $12.4 
+billion and $4.8 billion; Other assets, $414 million and $242 million; and Total assets, $13.4 billion and $5.6 billion, respectively. 
+
+(3) 	 Our consolidated liabilities at September 30, 2016, and December 31, 2015, include the following VIE liabilities for which the VIE creditors do not have recourse to Wells 
+Fargo: Accrued expenses and other liabilities, $79 million and $57 million; Long-term debt, $3.9 billion and $1.3 billion; and Total liabilities, $3.9 billion and $1.4 billion, 
+respectively. 
+
+The accompanying notes are an integral part of these statements. 
+
+71 
+
+  
+  
+  
+  
+ 
+Wells Fargo & Company and Subsidiaries 
+
+Consolidated Statement of Changes in Equity (Unaudited) 
+
+(in millions, except shares) 
+
+Balance January 1, 2015 
+
+Net income 
+
+Other comprehensive income (loss), net of tax 
+
+Noncontrolling interests 
+
+Common stock issued 
+
+Common stock repurchased 
+
+Preferred stock issued to ESOP 
+
+Preferred stock released by ESOP 
+
+Preferred stock converted to common shares 
+
+Common stock warrants repurchased/exercised 
+
+Preferred stock issued 
+
+Common stock dividends 
+
+Preferred stock dividends 
+
+Tax benefit from stock incentive compensation 
+
+Stock incentive compensation expense 
+
+Net change in deferred compensation and related plans 
+
+Net change 
+
+Balance September 30, 2015 
+
+Preferred stock 
+
+Common stock 
+
+Shares 
+
+Amount 
+
+Shares 
+
+Amount 
+
+11,138,818  $ 
+
+19,213 
+
+5,170,349,198  $ 
+
+9,136 
+
+63,017,857 
+
+(136,363,436) 
+
+826,598 
+
+826 
+
+(616,066) 
+
+(615) 
+
+11,470,349 
+
+120,000 
+
+3,000 
+
+330,532 
+
+3,211 
+
+(61,875,230) 
+
+— 
+
+11,469,350  $ 
+
+22,424 
+
+5,108,473,968  $ 
+
+9,136 
+
+Balance December 31, 2015 
+
+11,259,917  $ 
+
+22,214 
+
+5,092,128,810  $ 
+
+9,136 
+
+Cumulative effect from change in consolidation accounting (1) 
+
+Balance January 1, 2016 
+
+Net income 
+
+Other comprehensive income (loss), net of tax 
+
+Noncontrolling interests 
+
+Common stock issued 
+
+Common stock repurchased 
+
+Preferred stock issued to ESOP 
+
+Preferred stock released by ESOP 
+
+11,259,917  $ 
+
+22,214 
+
+5,092,128,810  $ 
+
+9,136 
+
+1,150,000 
+
+1,150 
+
+47,151,609 
+
+(134,787,773) 
+
+Preferred stock converted to common shares 
+
+(920,314) 
+
+(920) 
+
+19,396,555 
+
+Common stock warrants repurchased/exercised 
+
+Preferred stock issued 
+
+Common stock dividends 
+
+Preferred stock dividends 
+
+Tax benefit from stock incentive compensation 
+
+Stock incentive compensation expense 
+
+Net change in deferred compensation and related plans 
+
+86,000 
+
+2,150 
+
+Net change 
+
+315,686 
+
+2,380 
+
+(68,239,609) 
+
+— 
+
+Balance September 30, 2016 
+
+11,575,603  $ 
+
+24,594 
+
+5,023,889,201  $ 
+
+9,136 
+
+(1) 	 Effective January 1, 2016, we adopted changes in consolidation accounting pursuant to ASU 2015-02 (Amendments to the Consolidation Analysis). Accordingly, we 
+
+recorded a $121 million increase to beginning noncontrolling interests as a cumulative-effect adjustment. 
+
+The accompanying notes are an integral part of these statements. 
+
+72 
+
+Cumulative 
+other 
+comprehensive 
+income 
+
+3,518 
+
+(1,129) 
+
+Retained 
+earnings 
+
+107,040 
+
+17,319 
+
+— 
+
+(5,711) 
+
+(1,055) 
+
+Additional 
+paid-in 
+capital 
+
+60,537 
+
+3 
+
+(381) 
+
+750 
+
+74 
+
+(55) 
+
+81 
+
+(49) 
+
+(28) 
+
+48 
+
+431 
+
+640 
+
+(1,053) 
+
+461 
+
+60,998 
+
+Wells Fargo stockholders' equity 
+
+Treasury 
+stock 
+
+(13,690) 
+
+Unearned 
+ESOP 
+shares 
+
+Total 
+Wells Fargo 
+stockholders' 
+equity 
+
+(1,360) 
+
+184,394 
+
+2,715 
+
+(7,473) 
+
+534 
+
+(900) 
+
+670 
+
+17,319 
+
+(1,129) 
+
+3 
+
+2,334 
+
+(6,723) 
+
+— 
+
+615 
+
+— 
+
+(49) 
+
+2,972 
+
+(5,663) 
+
+(1,055) 
+
+431 
+
+640 
+
+(1,038) 
+
+8,657 
+
+193,051 
+
+Noncontrolling 
+interests 
+
+868 
+
+334 
+
+125 
+
+(335) 
+
+124 
+
+992 
+
+893 
+
+121 
+
+Total 
+equity 
+
+185,262 
+
+17,653 
+
+(1,004) 
+
+(332) 
+
+2,334 
+
+(6,723) 
+
+— 
+
+615 
+
+— 
+
+(49) 
+
+2,972 
+
+(5,663) 
+
+(1,055) 
+
+431 
+
+640 
+
+(1,038) 
+
+8,781 
+
+194,043 
+
+193,891 
+
+121 
+
+10,553 
+
+117,593 
+
+(1,129) 
+
+2,389 
+
+15 
+
+(4,209) 
+
+(17,899) 
+
+(230) 
+
+(1,590) 
+
+60,714 
+
+120,866 
+
+297 
+
+(18,867) 
+
+(1,362) 
+
+192,998 
+
+60,714 
+
+120,866 
+
+297 
+
+(18,867) 
+
+(1,362) 
+
+192,998 
+
+1,014 
+
+194,012 
+
+16,664 
+
+(286) 
+
+1,887 
+
+(5,791) 
+
+(1,165) 
+
+1 
+
+(194) 
+
+500 
+
+99 
+
+(79) 
+
+(16) 
+
+(17) 
+
+(49) 
+
+39 
+
+203 
+
+547 
+
+(1,063) 
+
+(29) 
+
+9,422 
+
+60,685 
+
+130,288 
+
+1,887 
+
+2,184 
+
+2,256 
+
+(6,582) 
+
+936 
+
+(1,249) 
+
+999 
+
+10 
+
+(3,380) 
+
+(250) 
+
+16,664 
+
+1,887 
+
+1 
+
+1,776 
+
+(6,082) 
+
+— 
+
+920 
+
+— 
+
+(17) 
+
+2,101 
+
+(5,752) 
+
+(1,165) 
+
+203 
+
+547 
+
+(1,053) 
+
+10,030 
+
+(22,247) 
+
+(1,612) 
+
+203,028 
+
+77 
+
+(24) 
+
+(137) 
+
+(84) 
+
+930 
+
+16,741 
+
+1,863 
+
+(136) 
+
+1,776 
+
+(6,082) 
+
+— 
+
+920 
+
+— 
+
+(17) 
+
+2,101 
+
+(5,752) 
+
+(1,165) 
+
+203 
+
+547 
+
+(1,053) 
+
+9,946 
+
+203,958 
+
+73 
+
+  
+  
+  
+  
+  
+Wells Fargo & Company and Subsidiaries 
+
+Consolidated Statement of Cash Flows (Unaudited) 
+
+(in millions) 
+
+Cash flows from operating activities: 
+
+Net income before noncontrolling interests 
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Provision for credit losses 
+Changes in fair value of MSRs, MHFS and LHFS carried at fair value 
+Depreciation, amortization and accretion 
+Other net gains 
+Stock-based compensation 
+Excess tax benefits related to stock incentive compensation 
+
+Originations of MHFS 
+Proceeds from sales of and principal collected on mortgages originated for sale 
+Proceeds from sales of and principal collected on LHFS 
+Purchases of LHFS 
+Net change in: 
+
+Trading assets 
+Deferred income taxes 
+Accrued interest receivable 
+Accrued interest payable 
+Other assets 
+Other accrued expenses and liabilities 
+
+Net cash provided (used) by operating activities 
+
+Cash flows from investing activities: 
+
+Net change in: 
+
+Nine months ended September 30, 
+
+2016 
+
+2015 
+
+$ 
+
+16,741 
+
+17,653 
+
+2,965 
+1,695 
+3,598 
+
+(74) 
+
+1,474 
+
+(209) 
+(144,018) 
+91,873 
+4 
+(4) 
+
+38,334 
+(1,617) 
+(419) 
+333 
+
+(16,091) 
+
+902 
+
+(4,513) 
+
+1,611 
+585 
+2,396 
+(4,176) 
+1,525 
+(431) 
+(138,204) 
+101,083 
+7 
+(28) 
+
+40,300 
+(2,421) 
+(643) 
+79 
+(562) 
+1,027 
+
+19,801 
+
+Federal funds sold, securities purchased under resale agreements and other short-term investments 
+
+(28,296) 
+
+3,453 
+
+Available-for-sale securities: 
+
+Sales proceeds 
+Prepayments and maturities 
+Purchases 
+
+Held-to-maturity securities: 
+Paydowns and maturities 
+Purchases 
+
+Nonmarketable equity investments: 
+
+Sales proceeds 
+Purchases 
+
+Loans: 
+
+Loans originated by banking subsidiaries, net of principal collected 
+Proceeds from sales (including participations) of loans held for investment 
+Purchases (including participations) of loans 
+Principal collected on nonbank entities’ loans 
+Loans originated by nonbank entities 
+
+Net cash paid for acquisitions 
+Proceeds from sales of foreclosed assets and short sales 
+Net cash from purchases and sales of MSRs 
+Other, net 
+
+Net cash used by investing activities 
+
+Cash flows from financing activities: 
+
+Net change in: 
+Deposits 
+Short-term borrowings 
+
+Long-term debt: 
+
+Proceeds from issuance 
+Repayment 
+Preferred stock: 
+
+Proceeds from issuance 
+Cash dividends paid 
+
+Common stock: 
+
+Proceeds from issuance 
+Repurchased 
+Cash dividends paid 
+
+Excess tax benefits related to stock incentive compensation 
+Net change in noncontrolling interests 
+Other, net 
+
+Net cash provided by financing activities 
+
+Net change in cash and due from banks 
+
+Cash and due from banks at beginning of period 
+
+Cash and due from banks at end of period 
+
+Supplemental cash flow disclosures: 
+
+Cash paid for interest 
+Cash paid for income taxes 
+
+28,147 
+27,768 
+(66,685) 
+
+5,085 
+(23,593) 
+
+1,298 
+(3,001) 
+
+(28,155) 
+6,958 
+(4,007) 
+8,736 
+(9,091) 
+(29,797) 
+5,560 
+
+(45) 
+(70) 
+
+(109,188) 
+
+52,582 
+26,882 
+
+67,677 
+(23,505) 
+
+2,101 
+(1,173) 
+
+1,024 
+(6,082) 
+(5,609) 
+
+209 
+(159) 
+(70) 
+
+113,877 
+
+176 
+
+19,111 
+
+19,287 
+
+3,920 
+7,158 
+
+$ 
+
+$ 
+
+15,959 
+23,681 
+(56,526) 
+
+4,278 
+(22,823) 
+
+2,904 
+(1,083) 
+
+(40,372) 
+8,898 
+(12,710) 
+7,448 
+(9,586) 
+— 
+5,769 
+(96) 
+(1,627) 
+
+(72,433) 
+
+34,107 
+24,551 
+
+24,495 
+(24,104) 
+
+2,972 
+(1,063) 
+
+1,454 
+(6,723) 
+(5,529) 
+431 
+(191) 
+56 
+
+50,456 
+
+(2,176) 
+
+19,571 
+
+17,395 
+
+2,842 
+9,270 
+
+The accompanying notes are an integral part of these statements. See Note 1 (Summary of Significant Accounting Policies) for noncash activities. 
+
+74 
+
+See the Glossary of Acronyms at the end of this Report for terms used throughout the Financial Statements and related Notes. 
+
+Note 1:  Summary of Significant Accounting Policies 
+
+Wells Fargo & Company is a diversified financial services 
+company. We provide banking, insurance, trust and investments, 
+mortgage banking, investment banking, retail banking, 
+brokerage, and consumer and commercial finance through 
+branches, the internet and other distribution channels to 
+consumers, businesses and institutions in all 50 states, the 
+District of Columbia, and in foreign countries. When we refer to 
+“Wells Fargo,” “the Company,” “we,” “our” or “us,” we mean 
+Wells Fargo & Company and Subsidiaries (consolidated). 
+Wells Fargo & Company (the Parent) is a financial holding 
+company and a bank holding company. We also hold a majority 
+interest in a real estate investment trust, which has publicly 
+traded preferred stock outstanding. 
+
+Our accounting and reporting policies conform with U.S. 
+generally accepted accounting principles (GAAP) and practices in 
+the financial services industry. For discussion of our significant 
+accounting policies, see Note 1 (Summary of Significant 
+Accounting Policies) in our Annual Report on Form 10-K for the 
+year ended December 31, 2015 (2015 Form 10-K). There were no 
+material changes to these policies in the first nine months of 
+2016. To prepare the financial statements in conformity with 
+GAAP, management must make estimates based on assumptions 
+about future economic and market conditions (for example, 
+unemployment, market liquidity, real estate prices, etc.) that 
+affect the reported amounts of assets and liabilities at the date of 
+the financial statements, income and expenses during the 
+reporting period and the related disclosures. Although our 
+estimates contemplate current conditions and how we expect 
+them to change in the future, it is reasonably possible that actual 
+conditions could be worse than anticipated in those estimates, 
+which could materially affect our results of operations and 
+financial condition. Management has made significant estimates 
+in several areas, including allowance for credit losses and 
+purchased credit-impaired (PCI) loans (Note 5 (Loans and 
+Allowance for Credit Losses)), valuations of residential mortgage 
+servicing rights (MSRs) (Note 7 (Securitizations and Variable 
+Interest Entities) and Note 8 (Mortgage Banking Activities)) and 
+financial instruments (Note 13 (Fair Values of Assets and 
+Liabilities)), and income taxes. Actual results could differ from 
+those estimates. 
+
+These unaudited interim financial statements reflect all 
+adjustments that are, in the opinion of management, necessary 
+for a fair statement of the results for the periods presented. These 
+adjustments are of a normal recurring nature, unless otherwise 
+disclosed in this Form 10-Q. The results of operations in the 
+interim financial statements do not necessarily indicate the 
+results that may be expected for the full year. The interim 
+financial information should be read in conjunction with our 
+2015 Form 10-K. 
+
+Accounting Standards Adopted in 2016 
+In first quarter 2016, we adopted the following new accounting 
+guidance: 
+
+• 	
+
+Accounting Standards Update (ASU or Update) 2015-16 – 
+Business Combinations (Topic 805): Simplifying the 
+Accounting for Measurement-Period Adjustments; 
+
+• 	
+
+• 	
+
+• 	
+
+• 	
+
+• 	
+
+• 	
+
+• 	
+
+ASU 2015-07 – Fair Value Measurement (Topic 820): 
+Disclosures for Investments in Certain Entities that 
+Calculate Net Asset Value per Share (or Its Equivalent); 
+ASU 2015-03 – Interest – Imputation of Interest (Subtopic 
+835-30): Simplifying the Presentation of Debt Issuance 
+Costs; 
+ASU 2015-02 – Consolidation (Topic 810): Amendments to 
+the Consolidation Analysis; 
+ASU 2015-01 – Income Statement – Extraordinary and 
+Unusual Items (Subtopic 225-20): Simplifying Income 
+Statement Presentation by Eliminating the Concept of 
+Extraordinary Items; 
+ASU 2014-16 – Derivatives and Hedging (Topic 815): 
+Determining Whether the Host Contract in a Hybrid 
+Financial Instrument Issued in the Form of a Share is More 
+Akin to Debt or to Equity; 
+ASU 2014-13 – Consolidation (Topic 810): Measuring the 
+Financial Assets and the Financial Liabilities of a 
+Consolidated Collateralized Financing Entity; and 
+ASU 2014-12 – Compensation – Stock Compensation (Topic 
+718): Accounting for Share-Based Payments When the 
+Terms of an Award Provide That a Performance Target 
+Could Be Achieved after the Requisite Service Period. 
+
+ASU 2015-16 eliminates the requirement for companies to 
+retrospectively adjust initial amounts recognized in business 
+combinations when the accounting is incomplete at the 
+acquisition date. Under the new guidance, companies should 
+record adjustments in the same reporting period in which the 
+amounts are determined. We adopted this accounting change in 
+first quarter 2016 with prospective application. The Update did 
+not have a material impact on our consolidated financial 
+statements. 
+
+ASU 2015-07 eliminates the disclosure requirement to 
+categorize investments within the fair value hierarchy that are 
+measured at fair value using net asset value as a practical 
+expedient. We adopted this change in first quarter 2016 with 
+retrospective application. The Update did not affect our 
+consolidated financial statements as it impacts only the fair value 
+disclosure requirements for certain investments. For additional 
+information, see Note 13 (Fair Values of Assets and Liabilities). 
+
+ASU 2015-03 changes the balance sheet presentation for debt 
+issuance costs. Under the new guidance, debt issuance costs 
+should be reported as a deduction from debt liabilities rather 
+than as a deferred charge classified as an asset. We adopted this 
+change in first quarter 2016, which resulted in a $180 million 
+reclassification from Other assets to Long-term debt on January 
+1, 2016. Because the impact on prior periods was not material, we 
+applied the guidance prospectively. 
+
+ASU 2015-02 requires companies to reevaluate all legal entities 
+under new consolidation guidance. The new guidance amends the 
+criteria companies use to evaluate whether they should 
+consolidate certain variable interest entities that have fee 
+arrangements and the criteria used to determine whether 
+partnerships and similar entities are variable interest entities. 
+The new guidance also amends the consolidation analysis for 
+certain investment funds and excludes certain money market 
+
+75 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes 1:  Summary of Significant Accounting Policies (continued) 
+
+funds. We adopted the accounting changes on January 1, 2016, 
+which resulted in a net increase in assets and a corresponding 
+cumulative-effect adjustment to noncontrolling interests of $121 
+million. There was no impact to consolidated retained earnings. 
+For additional information, see Note 7 (Securitizations and 
+Variable Interest Entities). 
+
+ASU 2015-01 removes the concept of extraordinary items from 
+GAAP and eliminates the requirement for extraordinary items to 
+be separately presented in the statement of income. We adopted 
+this change in first quarter 2016 with prospective application. 
+This Update did not have a material impact on our consolidated 
+financial statements. 
+
+ASU 2014-16 clarifies that the nature of host contracts in hybrid 
+financial instruments that are issued in share form should be 
+determined based on the entire instrument, including the 
+embedded derivative. We adopted this new requirement in first 
+quarter 2016. This Update did not have a material impact on our 
+consolidated financial statements. 
+
+ASU 2014-13 provides a measurement alternative to companies 
+that consolidate collateralized financing entities (CFEs), such as 
+collateralized debt obligation and collateralized loan obligation 
+structures. Under the new guidance, companies can measure 
+both the financial assets and financial liabilities of a CFE using 
+the more observable fair value of the financial assets or of the 
+financial liabilities. We adopted this accounting change in first 
+quarter 2016. The Update did not have a material impact on our 
+consolidated financial statements. 
+
+ASU 2014-12 provides accounting guidance for employee share-
+based payment awards with specific performance targets. The 
+Update clarifies that performance targets should be treated as 
+performance conditions if the targets affect vesting and could be 
+achieved after the requisite service period. We adopted this 
+change in first quarter 2016 with prospective application. The 
+Update did not have a material effect on our consolidated 
+financial statements, as our historical practice complies with the 
+new requirements. 
+
+Accounting Standards with Retrospective 
+Application 
+The following accounting pronouncement has been issued by the 
+FASB but is not yet effective: 
+
+• 	
+
+ASU 2016-15 – Statement of Cash Flows (Topic 230): 
+Classification of Certain Cash Receipts and Cash Payments. 
+
+ASU 2016-15 addresses eight specific cash flow issues with the 
+objective of reducing the existing diversity in practice for 
+reporting in the Statement of Cash Flows. The Update is effective 
+for us in first quarter 2018 with retrospective application. We are 
+evaluating the impact the Update will have on our consolidated 
+financial statements. 
+
+Private Share Repurchases 
+From time to time we enter into private forward repurchase 
+transactions with unrelated third parties to complement our 
+open-market common stock repurchase strategies, to allow us to 
+manage our share repurchases in a manner consistent with our 
+capital plans submitted annually under the Comprehensive 
+Capital Analysis and Review (CCAR) and to provide an economic 
+benefit to the Company. 
+
+Our payments to the counterparties for these contracts are 
+
+recorded in permanent equity in the quarter paid and are not 
+subject to re-measurement. The classification of the up-front 
+payments as permanent equity assures that we have appropriate 
+repurchase timing consistent with our capital plans, which 
+contemplate a fixed dollar amount available per quarter for share 
+repurchases pursuant to Federal Reserve Board (FRB) 
+supervisory guidance. In return, the counterparty agrees to 
+deliver a variable number of shares based on a per share discount 
+to the volume-weighted average stock price over the contract 
+period. There are no scenarios where the contracts would not 
+either physically settle in shares or allow us to choose the 
+settlement method. Our total number of outstanding shares of 
+common stock is not reduced until settlement of the private share 
+repurchase contract. 
+
+We had no unsettled private share repurchase contracts at 
+
+both September 30, 2016 and September 30, 2015. 
+
+76 
+
+ 
+SUPPLEMENTAL CASH FLOW INFORMATION  Significant 
+noncash activities are presented below. 
+
+Table 1.1:  Supplemental Cash Flow Information 
+
+(in millions) 
+
+Trading assets retained from securitization of MHFS 
+
+Transfers from loans to MHFS 
+
+Transfers from available-for-sale to held-to-maturity securities 
+
+SUBSEQUENT EVENTS  We have evaluated the effects of events 
+that have occurred subsequent to September 30, 2016, and there 
+have been no material events that would require recognition in 
+our third quarter 2016 consolidated financial statements or 
+disclosure in the Notes to the consolidated financial statements. 
+During the first week of October 2016, Hurricane Matthew 
+caused destruction along the coasts of Florida, Georgia, South 
+Carolina and North Carolina and resulted in, among other things, 
+property damage for our customers and the closing of many 
+businesses. We are currently assessing the impact to our 
+customers and our business as a result of Hurricane Matthew. 
+The financial impact to us is expected to primarily relate to our 
+consumer real estate, commercial real estate and auto loan 
+portfolios and will depend on a number of factors, including the 
+types of loans most affected by the hurricane, the extent of 
+damage to our collateral, the extent of available insurance 
+coverage, the availability of government assistance for our 
+borrowers, and whether our borrowers’ ability to repay their 
+loans has been diminished. 
+
+Nine months ended September 30, 
+
+2016 
+
+$ 
+
+47,291 
+
+5,257 
+
+816 
+
+2015 
+
+34,994 
+
+7,219 
+
+4,972 
+
+77 
+
+  
+  
+ 
+Note 2:  Business Combinations 
+
+We regularly explore opportunities to acquire financial services 
+companies and businesses. Generally, we do not make a public 
+announcement about an acquisition opportunity until a definitive 
+agreement has been signed. For information on additional 
+contingent consideration related to acquisitions, which is 
+considered to be a guarantee, see Note 10 (Guarantees, Pledged 
+Assets and Collateral). We also periodically review existing 
+businesses to ensure they remain strategically aligned with our 
+operating business model and risk profile. 
+
+During the first nine months of 2016, we completed two 
+
+acquisitions and refined the related purchase accounting 
+adjustments. On January 1, 2016, we acquired $4.3 billion in 
+assets associated with GE Railcar Services, which included 
+77,000 railcars and 1,000 locomotives. The acquired assets 
+included $918 million of loans and capital leases and $3.2 billion 
+of operating lease assets. 
+
+On March 1, 2016, we acquired the North American portion 
+
+of GE Capital’s Commercial Distribution Finance and Vendor 
+Finance businesses. The North American portion represented 
+approximately 90% of the total assets to be acquired. The Asia, 
+Australia and New Zealand portions closed during third quarter 
+2016 and the remainder of the international portion closed on 
+
+October 1, 2016. As of September 30, 2016, and reflective of 
+purchase accounting adjustment refinements, a total of 
+$31.1 billion in assets have been acquired, including $25.6 billion 
+of loans and capital leases, $2.7 billion of operating lease assets, 
+and $1.8 billion of goodwill and intangible assets. The 
+international portion that closed on October 1, 2016, completed 
+the overall acquisition and consisted of an additional $1.3 billion 
+in acquired assets. 
+
+We also completed two significant and a few small 
+
+divestitures during the first nine months of 2016. On March 31, 
+2016, we completed the divestiture of Rural Community 
+Insurance, our crop insurance business. The transaction resulted 
+in a pre-tax gain of $381 million. On May 31, 2016, we sold our 
+health benefit services business, which resulted in a pre-tax gain 
+of $290 million. 
+
+As of September 30, 2016, we had one pending acquisition 
+
+involving a registered investment advisor with approximately 
+$15 billion in assets under management. We closed the 
+acquisition on October 1, 2016. 
+
+Note 3:  Federal Funds Sold, Securities Purchased under Resale Agreements and Other 
+
+Short-Term Investments 
+
+Table 3.1 provides the detail of federal funds sold, securities 
+purchased under short-term resale agreements (generally less 
+than one year) and other short-term investments. Substantially 
+all of the interest-earning deposits at September 30, 2016, and 
+December 31, 2015, were held at the Federal Reserve.  
+
+Table 3.1:  Fed Funds Sold and Other Short-Term Investments 
+
+(in millions) 
+
+Federal funds sold and securities purchased 
+
+under resale agreements 
+
+Interest-earning deposits 
+
+Sep 30, 
+2016 
+
+Dec 31, 
+2015 
+
+$  67,443 
+
+45,828 
+
+224,438 
+
+220,409 
+
+Other short-term investments 
+
+6,444 
+
+3,893 
+
+Total 
+
+$ 298,325 
+
+270,130 
+
+As part of maintaining our memberships in certain clearing 
+organizations, we are required to stand ready to provide liquidity 
+meant to sustain market clearing activity in the event unforeseen 
+events occur or are deemed likely to occur. This includes 
+commitments we have entered into to purchase securities under 
+resale agreements from a central clearing organization that, at its 
+option, require us to provide funding under such agreements. We 
+do not have any outstanding amounts funded, and the amount of 
+our unfunded contractual commitment was $3.3 billion and 
+$2.2 billion as of September 30, 2016, and December 31, 2015, 
+respectively. 
+
+We have classified securities purchased under long-term 
+resale agreements (generally one year or more), which totaled 
+$21.2 billion and $20.1 billion at September 30, 2016, and 
+December 31, 2015, respectively, in loans. For additional 
+information on the collateral we receive from other entities under 
+resale agreements and securities borrowings, see the “Offsetting 
+of Resale and Repurchase Agreements and Securities Borrowing 
+and Lending Agreements” section in Note 10 (Guarantees, 
+Pledged Assets and Collateral). 
+
+78 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Note 4:  Investment Securities 
+
+Table 4.1 provides the amortized cost and fair value by major 
+categories of available-for-sale securities, which are carried at fair 
+value, and held-to-maturity debt securities, which are carried at 
+
+amortized cost. The net unrealized gains (losses) for available-
+for-sale securities are reported on an after-tax basis as a 
+component of cumulative OCI. 
+
+Table 4.1:  Amortized Cost and Fair Value 
+
+(in millions) 
+
+September 30, 2016 
+
+Available-for-sale securities: 
+
+Am
+
+ortized
+
+ Cost 
+
+Gross 
+unrealized 
+gains 
+
+Gross 
+unrealized 
+losses 
+
+Fair 
+value 
+
+Securities of U.S. Treasury and federal agencies 
+Securities of U.S. states and political subdivisions 
+Mortgage-backed securities: 
+
+$ 
+
+25,968 
+56,000 
+
+Federal agencies 
+Residential 
+Commercial 
+
+Total mortgage-backed securities 
+
+Corporate debt securities 
+Collateralized loan and other debt obligations (1) 
+Other (2) 
+
+Total debt securities 
+
+Marketable equity securities: 
+
+Perpetual preferred securities 
+Other marketable equity securities 
+
+Total marketable equity securities 
+
+Total available-for-sale securities 
+
+Held-to-maturity securities: 
+
+Securities of U.S. Treasury and federal agencies 
+Securities of U.S. states and political subdivisions 
+ Federal agency and other mortgage-backed securities (3) 
+Collateralized loan obligations 
+Other (2) 
+
+Total held-to-maturity securities 
+
+Total	 
+
+December 31, 2015 
+Available-for-sale securities: 
+
+Securities of U.S. Treasury and federal agencies 
+Securities of U.S. states and political subdivisions 
+Mortgage-backed securities: 
+
+Federal agencies 
+Residential 
+Commercial 
+
+Total mortgage-backed securities 
+
+Corporate debt securities 
+Collateralized loan and other debt obligations (1) 
+Other (2) 
+
+Total debt securities 
+
+Marketable equity securities: 
+
+Perpetual preferred securities 
+Other marketable equity securities 
+
+Total marketable equity securities 
+
+Total available-for-sale securities 
+
+Held-to-maturity securities: 
+
+287,118 
+
+6,413 
+
+(1,940) 
+
+291,591 
+
+132,732 
+7,881 
+9,801 
+150,414 
+
+12,506 
+35,201 
+6,278 
+286,367 
+
+529 
+222 
+751 
+
+44,682 
+2,994 
+47,721 
+1,406 
+2,438 
+99,241 
+
+$ 
+
+386,359 
+
+$ 
+
+36,374 
+49,167 
+
+103,391 
+7,843 
+13,943 
+125,177 
+15,548 
+31,210 
+5,842 
+263,318 
+
+819 
+239 
+1,058 
+264,376 
+
+44,660 
+2,185 
+28,604 
+1,405 
+3,343 
+80,197 
+344,573 
+
+410 
+910 
+
+3,020 
+653 
+126 
+3,799 
+
+389 
+292 
+128 
+5,928 
+
+65 
+420 
+485 
+
+(2) 
+(1,544) 
+
+(60) 
+(7) 
+(67) 
+(134) 
+
+(174) 
+(48) 
+(35) 
+(1,937) 
+
+(3) 
+— 
+(3) 
+
+26,376 
+55,366 
+
+135,692 
+8,527 
+9,860 
+154,079 
+
+12,721 
+35,445 
+6,371 
+290,358 
+
+591 
+642 
+1,233 
+
+2,209 
+121 
+969 
+7 
+11 
+3,317 
+
+9,730 
+
+24 
+1,325 
+
+1,983 
+740 
+230 
+2,953 
+312 
+125 
+115 
+4,854 
+
+112 
+482 
+594 
+5,448 
+
+580 
+65 
+131 
+— 
+8 
+784 
+6,232 
+
+— 
+(8) 
+— 
+(2) 
+(1) 
+(11) 
+
+(1,951) 
+
+(148) 
+(502) 
+
+(828) 
+(25) 
+(85) 
+(938) 
+(449) 
+(368) 
+(46) 
+(2,451) 
+
+(13) 
+(2) 
+(15) 
+(2,466) 
+
+(73) 
+— 
+(314) 
+(24) 
+(3) 
+(414) 
+(2,880) 
+
+46,891 
+3,107
+48,690 
+1,411 
+2,448 
+102,547 
+
+394,138 
+
+36,250 
+49,990 
+
+104,546 
+8,558 
+14,088 
+127,192 
+15,411 
+30,967 
+5,911 
+265,721 
+
+918 
+719 
+1,637 
+267,358 
+
+45,167 
+2,250 
+28,421 
+1,381 
+3,348 
+80,567 
+347,925 
+
+Securities of U.S. Treasury and federal agencies 
+Securities of U.S. states and political subdivisions 
+Federal agency and other mortgage-backed securities (3) 
+Collateralized loan obligations 
+Other (2) 
+
+Total held-to-maturity securities 
+
+Total	 
+
+$ 
+
+(1) 	 The available-for-sale portfolio includes collateralized debt obligations (CDOs) with a cost basis and fair value of $824 million and $832 million, respectively, at 
+
+September 30, 2016, and $247 million and $257 million, respectively, at December 31, 2015. 
+
+(2) 	 The “Other” category of available-for-sale securities largely includes asset-backed securities collateralized by credit cards, student loans, home equity loans and automobile 
+
+leases or loans and cash. Included in the “Other” category of held-to-maturity securities are asset-backed securities collateralized by automobile leases or loans and cash 
+with a cost basis and fair value of $1.4 billion each at September 30, 2016, and $1.9 billion each at December 31, 2015. Also included in the “Other” category of held-to­
+maturity securities are asset-backed securities collateralized by dealer floorplan loans with a cost basis and fair value of $1.1 billion each at September 30, 2016, and $1.4 
+billion each at December 31, 2015. 
+
+(3) 	 Predominantly consists of federal agency mortgage-backed securities at September 30, 2016. The entire balance consists of federal agency mortgage-backed securities at 
+
+December 31, 2015. 
+
+79 
+
+  
+

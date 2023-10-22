@@ -1,0 +1,46 @@
+NORTHWEST BANCSHARES, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION
+(in thousands, excluding share data) 
+ 	December 31,
+ 	2022		2021
+Assets	 		 
+Cash and cash equivalents	$	139,365 			1,279,259 	
+Marketable securities available-for-sale (amortized cost of $1,431,728 and $1,565,002, respectively)
+1,218,108 			1,548,592 	
+Marketable securities held-to-maturity (fair value of $751,384 and $751,513, respectively)
+881,249 			768,154 	
+Total cash and cash equivalents and marketable securities	2,238,722 			3,596,005 	
+Loans held-for-sale	9,913 			25,056 	
+Loans held for investment	10,910,539 			9,991,336 	
+Allowance for credit losses	(118,036)			(102,241)	
+Loans receivable, net	10,802,416 			9,914,151 	
+FHLB stock, at cost	40,143 			14,184 	
+Accrued interest receivable	35,528 			25,599 	
+Real estate owned, net	413 			873 	
+Premises and equipment, net	145,909 			156,524 	
+Bank-owned life insurance	255,062 			256,213 	
+Goodwill	380,997 			380,997 	
+Other intangible assets, net	8,560 			12,836 	
+Other assets	205,574 			144,126 	
+Total assets	$	14,113,324 			14,501,508 	
+Liabilities and shareholders’ equity	 		 
+Liabilities:	 		 
+Deposits	$	11,464,548 			12,301,165 	
+Borrowed funds	681,166 			139,093 	
+Subordinated debt	113,840 			123,575 	
+Junior subordinated debentures	129,314 			129,054 	
+Advances by borrowers for taxes and insurance	47,613 			44,582 	
+Accrued interest payable	3,231 			1,804 	
+Other liabilities	182,126 			178,664 	
+Total liabilities	12,621,838 			12,917,937 	
+Shareholders’ equity:	 		 
+Preferred stock, $0.01 par value: 50,000,000 authorized, no shares issued
+— 			— 	
+Common stock, $0.01 par value: 500,000,000 shares authorized, 127,028,848 and 126,612,183 shares issued and outstanding, respectively
+1,270 			1,266 	
+Additional paid-in capital	1,019,647 			1,010,405 	
+Retained earnings	641,727 			609,529 	
+Accumulated other comprehensive loss	(171,158)			(37,629)	
+Total shareholders’ equity	1,491,486 			1,583,571 	
+Total liabilities and shareholders’ equity	$	14,113,324 			14,501,508 	
+ 

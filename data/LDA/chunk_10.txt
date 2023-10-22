@@ -1,0 +1,3574 @@
+Note 5:  Loans and Allowance for Credit Losses (continued) 
+
+COMMERCIAL CREDIT QUALITY INDICATORS  In addition to 
+monitoring commercial loan concentration risk, we manage a 
+consistent process for assessing commercial loan credit quality. 
+Generally, commercial loans are subject to individual risk 
+assessment using our internal borrower and collateral quality 
+ratings. Our ratings are aligned to Pass and Criticized categories. 
+The Criticized category includes Special Mention, Substandard, 
+and Doubtful categories which are defined by bank regulatory 
+agencies. 
+
+Table 5.8:  Commercial Loans by Risk Category 
+
+Table 5.8 provides a breakdown of outstanding commercial 
+
+loans by risk category. Of the $22.3 billion in criticized 
+commercial and industrial loans and $6.0 billion in criticized 
+commercial real estate (CRE) loans at September 30, 2016, $3.3 
+billion and $839 million, respectively, have been placed on 
+nonaccrual status and written down to net realizable collateral 
+value. 
+
+(in millions) 
+
+September 30, 2016 
+
+By risk category: 
+
+Pass 
+
+Criticized 
+
+Commercial 
+and 
+industrial 
+
+Real 
+estate 
+mortgage 
+
+Real 
+estate 
+construction 
+
+Lease 
+financing 
+
+Total 
+
+$  301,402 
+
+124,350 
+
+22,729 
+
+17,616 
+
+466,097 
+
+22,251 
+
+5,463 
+
+551 
+
+1,255 
+
+29,520 
+
+Total commercial loans (excluding PCI) 
+
+323,653 
+
+129,813 
+
+23,280 
+
+18,871 
+
+495,617 
+
+Total commercial PCI loans (carrying value) 
+
+367 
+
+410 
+
+60 
+
+— 
+
+837 
+
+Total commercial loans 
+
+$  324,020 
+
+130,223 
+
+23,340 
+
+18,871 
+
+496,454 
+
+December 31, 2015 
+
+By risk category: 
+
+Pass 
+
+Criticized 
+
+$ 
+
+281,356 
+
+115,025 
+
+21,546 
+
+11,772 
+
+429,699 
+
+18,458 
+
+6,593 
+
+526 
+
+595 
+
+26,172 
+
+Total commercial loans (excluding PCI) 
+
+299,814 
+
+121,618 
+
+22,072 
+
+12,367 
+
+455,871 
+
+Total commercial PCI loans (carrying value) 
+
+78 
+
+542 
+
+92 
+
+— 
+
+712 
+
+Total commercial loans 
+
+$ 
+
+299,892 
+
+122,160 
+
+22,164 
+
+12,367 
+
+456,583 
+
+Table 5.9 provides past due information for commercial 
+loans, which we monitor as part of our credit risk management 
+practices. 
+
+Table 5.9:  Commercial Loans by Delinquency Status 
+
+(in millions) 
+
+September 30, 2016 
+
+By delinquency status: 
+
+Commercial 
+and 
+industrial 
+
+Real 
+estate 
+mortgage 
+
+Real 
+estate 
+construction 
+
+Lease 
+financing 
+
+Total 
+
+Current-29 days past due (DPD) and still accruing 
+
+$  319,764 
+
+128,888 
+
+23,197 
+
+18,645 
+
+490,494 
+
+30-89 DPD and still accruing 
+
+90+ DPD and still accruing 
+
+Nonaccrual loans 
+
+511 
+
+47 
+
+3,331 
+
+141 
+
+4 
+
+780 
+
+24 
+
+— 
+
+59 
+
+134 
+
+— 
+
+92 
+
+810 
+
+51 
+
+4,262 
+
+Total commercial loans (excluding PCI) 
+
+323,653 
+
+129,813 
+
+23,280 
+
+18,871 
+
+495,617 
+
+Total commercial PCI loans (carrying value) 
+
+367 
+
+410 
+
+60 
+
+— 
+
+837 
+
+Total commercial loans 
+
+$  324,020 
+
+130,223 
+
+23,340 
+
+18,871 
+
+496,454 
+
+December 31, 2015 
+
+By delinquency status: 
+
+Current-29 DPD and still accruing 
+
+30-89 DPD and still accruing 
+
+90+ DPD and still accruing 
+
+Nonaccrual loans 
+
+$ 
+
+297,847 
+
+120,415 
+
+21,920 
+
+12,313 
+
+452,495 
+
+507 
+
+97 
+
+1,363 
+
+221 
+
+13 
+
+969 
+
+82 
+
+4 
+
+66 
+
+28 
+
+— 
+
+26 
+
+838 
+
+114 
+
+2,424 
+
+Total commercial loans (excluding PCI) 
+
+299,814 
+
+121,618 
+
+22,072 
+
+12,367 
+
+455,871 
+
+Total commercial PCI loans (carrying value) 
+
+78 
+
+542 
+
+92 
+
+— 
+
+712 
+
+Total commercial loans 
+
+$ 
+
+299,892 
+
+122,160 
+
+22,164 
+
+12,367 
+
+456,583 
+
+90 
+
+ 
+  
+ 
+ 
+  
+ 
+CONSUMER CREDIT QUALITY INDICATORS  We have various 
+classes of consumer loans that present unique risks. Loan 
+delinquency, FICO credit scores and LTV for loan types are 
+common credit quality indicators that we monitor and utilize in 
+our evaluation of the appropriateness of the allowance for credit 
+losses for the consumer portfolio segment. 
+
+Many of our loss estimation techniques used for the 
+allowance for credit losses rely on delinquency-based models; 
+therefore, delinquency is an important indicator of credit quality 
+and the establishment of our allowance for credit losses. Table 
+5.10 provides the outstanding balances of our consumer portfolio 
+by delinquency status. 
+
+Table 5.10:  Consumer Loans by Delinquency Status 
+
+(in millions) 
+
+September 30, 2016 
+
+By delinquency status: 
+
+Current-29 DPD 
+
+30-59 DPD 
+
+60-89 DPD 
+
+90-119 DPD 
+
+120-179 DPD 
+
+180+ DPD 
+
+Government insured/guaranteed loans (1) 
+
+Real estate 
+1-4 family 
+first 
+mortgage 
+
+Real estate 
+1-4 family 
+junior lien 
+mortgage 
+
+Credit 
+card 
+
+Automobile 
+
+Other 
+revolving 
+credit and 
+installment 
+
+Total 
+
+$  237,074 
+
+47,094 
+
+34,158 
+
+1,810 
+
+714 
+
+312 
+
+338 
+
+1,894 
+
+19,717 
+
+288 
+
+147 
+
+102 
+
+112 
+
+320 
+
+— 
+
+262 
+
+180 
+
+151 
+
+239 
+
+2 
+
+— 
+
+61,498 
+
+1,032 
+
+253 
+
+85 
+
+5 
+
+— 
+
+— 
+
+39,821 
+
+419,645 
+
+150 
+
+113 
+
+85 
+
+24 
+
+20 
+
+— 
+
+3,542 
+
+1,407 
+
+735 
+
+718 
+
+2,236 
+
+19,717 
+
+Total consumer loans (excluding PCI) 
+
+261,859 
+
+48,063 
+
+34,992 
+
+62,873 
+
+40,213 
+
+448,000 
+
+Total consumer PCI loans (carrying value) 
+
+16,830 
+
+42 
+
+— 
+
+— 
+
+— 
+
+16,872 
+
+Total consumer loans 
+
+$  278,689 
+
+48,105 
+
+34,992 
+
+62,873 
+
+40,213 
+
+464,872 
+
+December 31, 2015 
+
+By delinquency status: 
+
+Current-29 DPD 
+
+30-59 DPD 
+
+60-89 DPD 
+
+90-119 DPD 
+
+120-179 DPD 
+
+180+ DPD 
+
+Government insured/guaranteed loans (1) 
+
+Total consumer loans (excluding PCI) 
+
+Total consumer PCI loans (carrying value) 
+
+$ 
+
+225,195 
+
+51,778 
+
+33,208 
+
+38,690 
+
+407,374 
+
+2,072 
+
+821 
+
+402 
+
+460 
+
+3,376 
+
+22,353 
+
+254,679 
+
+19,190 
+
+325 
+
+184 
+
+110 
+
+145 
+
+393 
+
+— 
+
+257 
+
+177 
+
+150 
+
+246 
+
+1 
+
+— 
+
+58,503 
+
+1,121 
+
+253 
+
+84 
+
+4 
+
+1 
+
+— 
+
+52,935 
+
+34,039 
+
+59,966 
+
+39,098 
+
+69 
+
+— 
+
+— 
+
+— 
+
+175 
+
+107 
+
+86 
+
+21 
+
+19 
+
+— 
+
+3,950 
+
+1,542 
+
+832 
+
+876 
+
+3,790 
+
+22,353 
+
+440,717 
+
+19,259 
+
+459,976 
+
+Total consumer loans 
+
+$ 
+
+273,869 
+
+53,004 
+
+34,039 
+
+59,966 
+
+39,098 
+
+(1) 	 Represents loans whose repayments are predominantly insured by the FHA or guaranteed by the VA. Loans insured/guaranteed by the FHA/VA and 90+ DPD totaled 
+
+$9.8 billion at September 30, 2016, compared with $12.4 billion at December 31, 2015. 
+
+Of the $3.7 billion of consumer loans not government 
+
+insured/guaranteed that are 90 days or more past due at 
+September 30, 2016, $802 million was accruing, compared with 
+$5.5 billion past due and $867 million accruing at December 31, 
+2015. 
+
+Real estate 1-4 family first mortgage loans 180 days or more 
+
+past due totaled $1.9 billion, or 0.7% of total first mortgages 
+(excluding PCI), at September 30, 2016, compared with $3.4 
+billion, or 1.3%, at December 31, 2015. 
+
+Table 5.11 provides a breakdown of our consumer portfolio 
+by FICO. Most of the scored consumer portfolio has an updated 
+FICO of 680 and above, reflecting a strong current borrower 
+credit profile. FICO is not available for certain loan types and 
+may not be obtained if we deem it unnecessary due to strong 
+collateral and other borrower attributes, substantially all of which 
+are security-based loans originated through retail brokerage of 
+$7.6 billion at September 30, 2016, and $7.0 billion at 
+December 31, 2015. 
+
+91 
+
+  
+  
+ 
+ 
+Note 5:  Loans and Allowance for Credit Losses (continued) 
+
+Table 5.11:  Consumer Loans by FICO 
+
+(in millions) 
+
+September 30, 2016 
+
+By FICO: 
+
+< 600 
+
+600-639 
+
+640-679 
+
+680-719 
+
+720-759 
+
+760-799 
+
+800+ 
+
+No FICO available 
+
+FICO not required 
+
+Real estate 
+1-4 family 
+first 
+mortgage 
+
+Real estate 
+1-4 family 
+junior lien 
+mortgage 
+
+Credit 
+card 
+
+Automobile 
+
+Other 
+revolving 
+credit and 
+installment 
+
+$ 
+
+7,177 
+
+5,661 
+
+11,334 
+
+23,451 
+
+38,387 
+
+2,720 
+
+2,017 
+
+3,910 
+
+6,783 
+
+9,864 
+
+100,971 
+
+15,365 
+
+49,460 
+
+5,701 
+
+— 
+
+6,638 
+
+766 
+
+— 
+
+— 
+
+3,245 
+
+2,984 
+
+5,492 
+
+7,124 
+
+7,357 
+
+5,938 
+
+2,776 
+
+76 
+
+— 
+
+— 
+
+9,919 
+
+6,982 
+
+10,447 
+
+11,341 
+
+8,718 
+
+8,159 
+
+6,881 
+
+426 
+
+— 
+
+— 
+
+943 
+
+1,052 
+
+2,396 
+
+4,395 
+
+5,997 
+
+8,548 
+
+6,600 
+
+2,651 
+
+7,631 
+
+Total 
+
+24,004 
+
+18,696 
+
+33,579 
+
+53,094 
+
+70,323 
+
+138,981 
+
+72,355 
+
+9,620 
+
+7,631 
+
+Government insured/guaranteed loans (1) 
+
+19,717 
+
+— 
+
+19,717 
+
+Total consumer loans (excluding PCI) 
+
+261,859 
+
+48,063 
+
+34,992 
+
+62,873 
+
+40,213 
+
+448,000 
+
+Total consumer PCI loans (carrying value) 
+
+16,830 
+
+42 
+
+— 
+
+— 
+
+— 
+
+16,872 
+
+Total consumer loans 
+
+$  278,689 
+
+48,105 
+
+34,992 
+
+62,873 
+
+40,213 
+
+464,872 
+
+December 31, 2015 
+
+By FICO: 
+
+< 600 
+
+600-639 
+
+640-679 
+
+680-719 
+
+720-759 
+
+760-799 
+
+800+ 
+
+No FICO available 
+
+FICO not required 
+
+Government insured/guaranteed loans (1) 
+
+Total consumer loans (excluding PCI) 
+
+Total consumer PCI loans (carrying value) 
+
+$ 
+
+8,716 
+
+6,961 
+
+13,006 
+
+24,460 
+
+38,309 
+
+92,975 
+
+44,452 
+
+3,447 
+
+— 
+
+22,353 
+
+254,679 
+
+19,190 
+
+3,025 
+
+2,367 
+
+4,613 
+
+7,863 
+
+10,966 
+
+16,369 
+
+6,895 
+
+837 
+
+— 
+
+— 
+
+2,927 
+
+2,875 
+
+5,354 
+
+6,857 
+
+7,017 
+
+5,693 
+
+3,090 
+
+226 
+
+— 
+
+— 
+
+9,260 
+
+6,619 
+
+10,014 
+
+10,947 
+
+8,279 
+
+7,761 
+
+6,654 
+
+432 
+
+— 
+
+— 
+
+965 
+
+1,086 
+
+2,416 
+
+4,388 
+
+6,010 
+
+8,351 
+
+6,510 
+
+2,395 
+
+6,977 
+
+— 
+
+52,935 
+
+34,039 
+
+59,966 
+
+39,098 
+
+69 
+
+— 
+
+— 
+
+— 
+
+Total consumer loans 
+
+$ 
+
+273,869 
+
+53,004 
+
+34,039 
+
+59,966 
+
+39,098 
+
+(1)  Represents loans whose repayments are predominantly insured by the FHA or guaranteed by the VA. 
+
+24,893 
+
+19,908 
+
+35,403 
+
+54,515 
+
+70,581 
+
+131,149 
+
+67,601 
+
+7,337 
+
+6,977 
+
+22,353 
+
+440,717 
+
+19,259 
+
+459,976 
+
+LTV refers to the ratio comparing the loan’s unpaid principal 
+
+balance to the property’s collateral value. CLTV refers to the 
+combination of first mortgage and junior lien mortgage 
+(including unused line amounts for credit line products) ratios. 
+LTVs and CLTVs are updated quarterly using a cascade approach 
+which first uses values provided by automated valuation models 
+(AVMs) for the property. If an AVM is not available, then the 
+value is estimated using the original appraised value adjusted by 
+the change in Home Price Index (HPI) for the property location. 
+If an HPI is not available, the original appraised value is used. 
+The HPI value is normally the only method considered for high 
+value properties, generally with an original value of $1 million or 
+more, as the AVM values have proven less accurate for these 
+properties. 
+
+Table 5.12 shows the most updated LTV and CLTV 
+distribution of the real estate 1-4 family first and junior lien 
+mortgage loan portfolios. We consider the trends in residential 
+real estate markets as we monitor credit risk and establish our 
+allowance for credit losses. In the event of a default, any loss 
+should be limited to the portion of the loan amount in excess of 
+the net realizable value of the underlying real estate collateral 
+value. Certain loans do not have an LTV or CLTV due to industry 
+data availability and portfolios acquired from or serviced by other 
+institutions. 
+
+92 
+
+  
+ 
+ 
+Table 5.12:  Consumer Loans by LTV/CLTV 
+
+September 30, 2016	 
+
+December 31, 2015 
+
+(in millions)	 
+
+By LTV/CLTV: 
+
+0-60% 
+
+60.01-80% 
+
+80.01-100% 
+
+100.01-120% (1) 
+
+> 120% (1) 
+
+No LTV/CLTV available 
+
+Government insured/guaranteed loans (2) 
+
+Real estate 
+1-4 family 
+first 
+mortgage 
+by LTV 
+
+Real estate 
+1-4 family 
+junior lien 
+mortgage 
+by CLTV 
+
+$  119,444 
+
+100,450 
+
+16,509 
+
+3,015 
+
+1,385 
+
+1,339 
+
+19,717 
+
+16,499 
+
+15,571 
+
+9,381 
+
+4,055 
+
+2,041 
+
+516 
+
+— 
+
+Total 
+
+135,943 
+
+116,021 
+
+25,890 
+
+7,070 
+
+3,426 
+
+1,855 
+
+19,717 
+
+Total consumer loans (excluding PCI) 
+
+261,859 
+
+48,063 
+
+309,922 
+
+Total consumer PCI loans (carrying value) 
+
+16,830 
+
+42 
+
+16,872 
+
+Total consumer loans	 
+
+$  278,689 
+
+48,105 
+
+326,794 
+
+Real estate 
+1-4 family 
+first 
+mortgage 
+by LTV 
+
+Real estate 
+1-4 family 
+junior lien 
+mortgage 
+by CLTV 
+
+109,558 
+
+92,005 
+
+22,765 
+
+4,480 
+
+2,065 
+
+1,453 
+
+22,353 
+
+254,679 
+
+19,190 
+
+273,869 
+
+15,805 
+
+16,579 
+
+11,385 
+
+5,545 
+
+3,051 
+
+570 
+
+— 
+
+52,935 
+
+69 
+
+53,004 
+
+Total 
+
+125,363 
+
+108,584 
+
+34,150 
+
+10,025 
+
+5,116 
+
+2,023 
+
+22,353 
+
+307,614 
+
+19,259 
+
+326,873 
+
+(1) 	 Reflects total loan balances with LTV/CLTV amounts in excess of 100%. In the event of default, the loss content would generally be limited to only the amount in excess of 
+
+100% LTV/CLTV. 
+
+(2) 	 Represents loans whose repayments are predominantly insured by the FHA or guaranteed by the VA. 
+
+NONACCRUAL LOANS  Table 5.13 provides loans on nonaccrual 
+status. PCI loans are excluded from this table because they 
+continue to earn interest from accretable yield, independent of 
+performance in accordance with their contractual terms. 
+
+Table 5.13:  Nonaccrual Loans 
+
+(in millions) 
+
+Commercial: 
+
+Sep 30, 
+2016 
+
+Dec 31, 
+2015 
+
+Commercial and industrial 
+
+$ 
+
+3,331 
+
+Real estate mortgage 
+
+Real estate construction 
+
+Lease financing 
+
+Total commercial 
+
+Consumer: 
+
+780 
+
+59 
+
+92 
+
+1,363 
+
+969 
+
+66 
+
+26 
+
+4,262 
+
+2,424 
+
+Real estate 1-4 family first mortgage (1) 
+
+5,310 
+
+7,293 
+
+Real estate 1-4 family junior lien 
+
+mortgage 
+
+Automobile 
+
+Other revolving credit and installment 
+
+Total consumer 
+
+Total nonaccrual loans 
+(excluding PCI) 
+
+1,259 
+
+1,495 
+
+108 
+
+47 
+
+121 
+
+49 
+
+6,724 
+
+8,958 
+
+$  10,986 
+
+11,382 
+
+(1) 
+
+Includes MHFS of $150 million and $177 million at September 30, 2016, and 
+December 31, 2015, respectively. 
+
+LOANS IN PROCESS OF FORECLOSURE  Our recorded 
+investment in consumer mortgage loans collateralized by 
+residential real estate property that are in process of foreclosure 
+was $8.5 billion and $11.0 billion at September 30, 2016 and 
+December 31, 2015, respectively, which included $5.0 billion and 
+$6.2 billion, respectively, of loans that are government insured/ 
+guaranteed. We commence the foreclosure process on consumer 
+real estate loans when a borrower becomes 120 days delinquent 
+in accordance with Consumer Finance Protection Bureau 
+Guidelines. Foreclosure procedures and timelines vary depending 
+on whether the property address resides in a judicial or non-
+judicial state. Judicial states require the foreclosure to be 
+processed through the state’s courts while non-judicial states are 
+processed without court intervention. Foreclosure timelines var
+y
+according to state law. 
+
+93 
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+  
+  
+Note 5:  Loans and Allowance for Credit Losses (continued) 
+
+LOANS 90 DAYS OR MORE PAST DUE AND STILL ACCRUING 
+Certain loans 90 days or more past due as to interest or principal 
+are still accruing, because they are (1) well-secured and in the 
+process of collection or (2) real estate 1-4 family mortgage loans 
+or consumer loans exempt under regulatory rules from being 
+classified as nonaccrual until later delinquency, usually 120 days 
+past due. PCI loans of $2.2 billion at September 30, 2016, and 
+$2.9 billion at December 31, 2015, are not included in these past 
+due and still accruing loans even though they are 90 days or more 
+contractually past due. These PCI loans are considered to be 
+accruing because they continue to earn interest from accretable 
+yield, independent of performance in accordance with their 
+contractual terms. 
+
+Table 5.14 shows non-PCI loans 90 days or more past due 
+
+and still accruing by class for loans not government insured/ 
+guaranteed. 
+
+Table 5.14:  Loans 90 Days or More Past Due and Still Accruing 
+
+(in millions) 
+
+Total (excluding PCI):	 
+
+Sep 30, 
+2016 
+
+$  12,068 
+
+Dec 31, 
+2015 
+
+14,380 
+
+Less: FHA insured/guaranteed by the 
+
+VA (1)(2) 
+
+11,198 
+
+13,373 
+
+Less: Student loans guaranteed under 
+
+the FFELP (3) 
+
+17 
+
+Total, not government 
+insured/guaranteed 
+
+$ 
+
+853 
+
+By segment and class, not government 
+
+insured/guaranteed: 
+
+Commercial: 
+
+Commercial and industrial 
+
+$ 
+
+Real estate mortgage 
+
+Real estate construction 
+
+Total commercial	 
+
+Consumer: 
+
+Real estate 1-4 family first mortgage 
+
+(2) 
+
+Real estate 1-4 family junior lien 
+
+mortgage (2) 
+
+Credit card 
+
+Automobile 
+
+Other revolving credit and installment 
+
+Total consumer	 
+
+47 
+
+4 
+
+— 
+
+51 
+
+171 
+
+54 
+
+392 
+
+81 
+
+104 
+
+802 
+
+Total, not government 
+insured/guaranteed 
+
+$ 
+
+853 
+
+26 
+
+981 
+
+97 
+
+13 
+
+4 
+
+114 
+
+224 
+
+65 
+
+397 
+
+79 
+
+102 
+
+867 
+
+981 
+
+(1) 	 Represents loans whose repayments are predominantly insured by the FHA or 
+
+guaranteed by the VA. 
+Includes mortgages held for sale 90 days or more past due and still accruing. 
+
+(2) 	
+(3) 	 Represents loans whose repayments are predominantly guaranteed by agencies 
+
+on behalf of the U.S. Department of Education under the FFELP. 
+
+94 
+
+  
+ 
+  
+ 
+IMPAIRED LOANS  Table 5.15 summarizes key information for 
+impaired loans. Our impaired loans predominantly include loans 
+on nonaccrual status in the commercial portfolio segment and 
+loans modified in a TDR, whether on accrual or nonaccrual 
+status. These impaired loans generally have estimated losses 
+which are included in the allowance for credit losses. We have 
+impaired loans with no allowance for credit losses when loss 
+content has been previously recognized through charge-offs and 
+we do not anticipate additional charge-offs or losses, or certain 
+
+loans are currently performing in accordance with their terms 
+and for which no loss has been estimated. Impaired loans exclude 
+PCI loans. Table 5.15 includes trial modifications that totaled 
+$348 million at September 30, 2016, and $402 million at 
+December 31, 2015. 
+
+For additional information on our impaired loans and 
+allowance for credit losses, see Note 1 (Summary of Significant 
+Accounting Policies) in our 2015 Form 10-K. 
+
+Table 5.15:  Impaired Loans Summary 
+
+(in millions) 
+
+September 30, 2016 
+
+Commercial: 
+
+Commercial and industrial 
+
+Real estate mortgage 
+
+Real estate construction 
+
+Lease financing 
+
+Total commercial	 
+
+Consumer: 
+
+Real estate 1-4 family first mortgage 
+
+Real estate 1-4 family junior lien mortgage 
+
+Credit card 
+
+Automobile 
+
+Other revolving credit and installment 
+
+Total consumer (2)	 
+
+Total impaired loans (excluding PCI)	 
+
+December 31, 2015 
+
+Commercial: 
+
+Commercial and industrial 
+
+Real estate mortgage 
+
+Real estate construction 
+
+Lease financing 
+
+Total commercial	 
+
+Consumer: 
+
+Real estate 1-4 family first mortgage 
+
+Real estate 1-4 family junior lien mortgage 
+
+Credit card 
+
+Automobile 
+
+Other revolving credit and installment 
+
+Total consumer (2)	 
+
+Unpaid 
+principal 
+balance (1) 
+
+Recorded investment 
+
+Impaired 
+loans 
+
+Impaired loans 
+with related 
+allowance for 
+credit losses 
+
+Related 
+allowance for 
+credit losses 
+
+$ 
+
+5,054 
+
+1,996 
+
+186 
+
+119 
+
+7,355 
+
+17,189 
+
+2,486 
+
+294 
+
+156 
+
+101 
+
+20,226 
+
+$ 
+
+27,581 
+
+$ 
+
+2,746 
+
+2,369 
+
+262 
+
+38 
+
+5,415 
+
+19,626 
+
+2,704 
+
+299 
+
+173 
+
+86 
+
+22,888 
+
+3,885 
+
+1,588 
+
+103 
+
+96 
+
+5,672 
+
+15,028 
+
+2,236 
+
+294 
+
+89 
+
+94 
+
+17,741 
+
+23,413 
+
+1,835 
+
+1,815 
+
+131 
+
+27 
+
+3,808 
+
+17,121 
+
+2,408 
+
+299 
+
+105 
+
+79 
+
+20,012 
+
+23,820 
+
+3,444 
+
+1,566 
+
+103 
+
+96 
+
+5,209 
+
+9,898 
+
+1,645 
+
+294 
+
+32 
+
+84 
+
+11,953 
+
+17,162 
+
+1,648 
+
+1,773 
+
+112 
+
+27 
+
+3,560 
+
+11,057 
+
+1,859 
+
+299 
+
+41 
+
+71 
+
+13,327 
+
+16,887 
+
+780 
+
+292 
+
+23 
+
+18 
+
+1,113 
+
+1,328 
+
+344 
+
+100 
+
+5 
+
+17 
+
+1,794 
+
+2,907 
+
+435 
+
+405 
+
+23 
+
+9 
+
+872 
+
+1,643 
+
+447 
+
+94 
+
+5 
+
+15 
+
+2,204 
+
+3,076 
+
+Total impaired loans (excluding PCI)	 
+
+$ 
+
+28,303 
+
+(1) 	 Excludes the unpaid principal balance for loans that have been fully charged off or otherwise have zero recorded investment. 
+(2) 	
+
+Includes the recorded investment of $1.6 billion and 1.8 billion at September 30, 2016, and December 31, 2015, respectively, of government insured/guaranteed loans that 
+are predominantly insured by the FHA or guaranteed by the VA and generally do not have an allowance. Impaired loans may also have limited, if any, allowance when the 
+recorded investment of the loan approximates estimated net realizable value as a result of charge-offs prior to a TDR modification. 
+
+95 
+
+  
+ 
+64 
+
+108 
+
+22 
+
+— 
+
+194 
+
+697 
+
+103 
+
+30 
+
+11 
+
+3 
+
+844 
+
+Real estate mortgage 
+
+Real estate construction 
+
+Lease financing 
+
+Total commercial 
+
+Consumer: 
+
+Real estate 1-4 family 
+
+first mortgage 
+
+Real estate 1-4 family 
+junior lien mortgage 
+
+Note 5:  Loans and Allowance for Credit Losses (continued) 
+
+Commitments to lend additional funds on loans whose terms 
+
+have been modified in a TDR amounted to $440 million and 
+$363 million at September 30, 2016 and December 31, 2015, 
+respectively. 
+
+Table 5.16 provides the average recorded investment in 
+impaired loans and the amount of interest income recognized on 
+impaired loans by portfolio segment and class. 
+
+Table 5.16:  Average Recorded Investment in Impaired Loans 
+
+Quarter ended September 30, 
+
+Nine months ended September 30, 
+
+2016 
+
+2015 
+
+2016 
+
+2015 
+
+Average  Recognized 
+interest 
+recorded 
+income 
+investment 
+
+Average 
+recorded 
+investment 
+
+Recognized 
+interest 
+income 
+
+Average  Recognized 
+interest 
+recorded 
+income 
+investment 
+
+Average 
+recorded 
+investment 
+
+Recognized 
+interest 
+income 
+
+(in millions) 
+
+Commercial: 
+
+Commercial and industrial  $ 
+
+3,961 
+
+1,644 
+
+108 
+
+99 
+
+5,812 
+
+25 
+
+33 
+
+3 
+
+— 
+
+61 
+
+1,407 
+
+2,109 
+
+232 
+
+27 
+
+3,775 
+
+21 
+
+34 
+
+7 
+
+— 
+
+62 
+
+3,350 
+
+1,699 
+
+117 
+
+89 
+
+5,255 
+
+65 
+
+99 
+
+8 
+
+— 
+
+1,108 
+
+2,241 
+
+260 
+
+24 
+
+172 
+
+3,633 
+
+15,471 
+
+203 
+
+17,761 
+
+231 
+
+16,224 
+
+635 
+
+18,125 
+
+2,268 
+
+32 
+
+2,467 
+
+Credit card 
+
+Automobile 
+
+Other revolving credit and 
+
+installment 
+
+292 
+
+90 
+
+91 
+
+9 
+
+3 
+
+2 
+
+310 
+
+111 
+
+61 
+
+34 
+
+10 
+
+3 
+
+1 
+
+2,327 
+
+294 
+
+95 
+
+84 
+
+99 
+
+26 
+
+9 
+
+5 
+
+2,499 
+
+321 
+
+118 
+
+57 
+
+Total consumer 
+
+18,212 
+
+249 
+
+20,710 
+
+279 
+
+19,024 
+
+774 
+
+21,120 
+
+Total impaired loans 
+(excluding PCI) 
+
+Interest income: 
+
+Cash basis of accounting 
+
+Other (1) 
+
+Total interest income 
+
+$ 
+
+24,024 
+
+310 
+
+24,485 
+
+341 
+
+24,279 
+
+946 
+
+24,753 
+
+1,038 
+
+$ 
+
+$ 
+
+87 
+
+223 
+
+310 
+
+104 
+
+237 
+
+341 
+
+274 
+
+672 
+
+946 
+
+323 
+
+715 
+
+1,038 
+
+(1) 
+
+Includes interest recognized on accruing TDRs, interest recognized related to certain impaired loans which have an allowance calculated using discounting, and amortization 
+of purchase accounting adjustments related to certain impaired loans. 
+
+TROUBLED DEBT RESTRUCTURINGS (TDRs)  When, for 
+economic or legal reasons related to a borrower’s financial 
+difficulties, we grant a concession for other than an insignificant 
+period of time to a borrower that we would not otherwise 
+consider, the related loan is classified as a TDR, the balance of 
+which totaled $21.5 billion and $22.7 billion at September 30, 
+2016 and December 31, 2015, respectively. We do not consider 
+any loans modified through a loan resolution such as foreclosure 
+or short sale to be a TDR. 
+
+We may require some consumer borrowers experiencing 
+financial difficulty to make trial payments generally for a period 
+of three to four months, according to the terms of a planned 
+permanent modification, to determine if they can perform 
+according to those terms. These arrangements represent trial 
+modifications, which we classify and account for as TDRs. While 
+loans are in trial payment programs, their original terms are not 
+considered modified and they continue to advance through 
+delinquency status and accrue interest according to their original 
+terms. The planned modifications for these arrangements 
+primarily involve interest rate reductions; however, the exact 
+concession type and resulting financial effect are usually not 
+finalized and do not take effect until the loan is permanently 
+modified. The trial period terms are developed in accordance 
+with our proprietary programs or the U.S. Treasury’s Making 
+Home Affordable programs for real estate 1-4 family first lien (i.e. 
+Home Affordable Modification Program – HAMP) and junior lien 
+(i.e. Second Lien Modification Program – 2MP) mortgage loans. 
+
+96 
+
+At September 30, 2016, the loans in trial modification period 
+
+were $146 million under HAMP, $28 million under 2MP and 
+$174 million under proprietary programs, compared with 
+$130 million, $32 million and $240 million at December 31, 
+2015, respectively. Trial modifications with a recorded 
+investment of $125 million at September 30, 2016, and $136 
+million at December 31, 2015, were accruing loans and $223 
+million and $266 million, respectively, were nonaccruing loans. 
+Our experience is that most of the mortgages that enter a trial 
+payment period program are successful in completing the 
+program requirements and are then permanently modified at the 
+end of the trial period. Our allowance process considers the 
+impact of those modifications that are probable to occur. 
+
+Table 5.17 summarizes our TDR modifications for the 
+periods presented by primary modification type and includes the 
+financial effects of these modifications. For those loans that 
+modify more than once, the table reflects each modification that 
+occurred during the period. Loans that both modify and pay off 
+within the period, as well as changes in recorded investment 
+during the period for loans modified in prior periods, are not 
+included in the table. 
+
+ 
+  
+ 
+Table 5.17:  TDR Modifications 
+
+(in millions) 
+
+Quarter ended September 30, 2016 
+
+Commercial: 
+
+Primary modification type (1) 
+
+Financial effects of modifications 
+
+Principal (2) 
+
+Interest 
+rate 
+reduction 
+
+Other 
+concessions (3) 
+
+Total 
+
+Charge-
+offs (4) 
+
+Weighted 
+average 
+interest 
+rate 
+reduction 
+
+Recorded 
+investment 
+related to 
+interest rate 
+reduction 
+(5) 
+
+Commercial and industrial 
+
+$ 
+
+Real estate mortgage 
+
+Real estate construction 
+
+Lease financing 
+
+Total commercial 
+
+Consumer: 
+
+Real estate 1-4 family first mortgage 
+
+Real estate 1-4 family junior lien 
+
+mortgage 
+
+Credit card 
+
+Automobile 
+
+Other revolving credit and installment 
+
+Trial modifications (6) 
+
+Total consumer 
+
+Total 
+
+Quarter ended September 30, 2015 
+
+Commercial: 
+
+Commercial and industrial 
+
+Real estate mortgage 
+
+Real estate construction 
+
+Lease financing 
+
+Total commercial 
+
+Consumer: 
+
+$ 
+
+$ 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+84 
+
+5 
+
+— 
+
+1 
+
+— 
+
+— 
+
+90 
+
+90 
+
+3 
+
+— 
+
+— 
+
+— 
+
+3 
+
+Real estate 1-4 family first mortgage 
+
+114 
+
+Real estate 1-4 family junior lien 
+
+mortgage 
+
+Credit card 
+
+Automobile 
+
+Other revolving credit and installment 
+
+Trial modifications (6) 
+
+Total consumer 
+
+Total 
+
+8 
+
+— 
+
+— 
+
+— 
+
+— 
+
+122 
+
+125 
+
+$ 
+
+10 
+
+28 
+
+12 
+
+— 
+
+50 
+
+79 
+
+25 
+
+46 
+
+4 
+
+9 
+
+— 
+
+163 
+
+213 
+
+11 
+
+44 
+
+1 
+
+— 
+
+56 
+
+98 
+
+24 
+
+41 
+
+1 
+
+7 
+
+— 
+
+171 
+
+227 
+
+1,032 
+
+1,042 
+
+168 
+
+— 
+
+4 
+
+196 
+
+12 
+
+4 
+
+1,204 
+
+1,254 
+
+330 
+
+493 
+
+22 
+
+— 
+
+15 
+
+3 
+
+15 
+
+52 
+
+46 
+
+20 
+
+12 
+
+15 
+
+385 
+
+638 
+
+1,589 
+
+1,892 
+
+487 
+
+154 
+
+9 
+
+— 
+
+650 
+
+501 
+
+198 
+
+10 
+
+— 
+
+709 
+
+514 
+
+726 
+
+39 
+
+— 
+
+22 
+
+1 
+
+(1) 
+
+575 
+
+71 
+
+41 
+
+23 
+
+8 
+
+(1) 
+
+868 
+
+1,225 
+
+1,577 
+
+61 
+
+1 
+
+— 
+
+— 
+
+62 
+
+11 
+
+9 
+
+— 
+
+11 
+
+— 
+
+— 
+
+31 
+
+93 
+
+58 
+
+— 
+
+— 
+
+— 
+
+58 
+
+11 
+
+10 
+
+— 
+
+10 
+
+— 
+
+— 
+
+31 
+
+89 
+
+1.28%  $ 
+
+0.99 
+
+0.80 
+
+— 
+
+1.01 
+
+2.56 
+
+3.08 
+
+12.13 
+
+6.42 
+
+6.86 
+
+— 
+
+4.82 
+
+4.13%  $ 
+
+1.66 %  $ 
+
+1.46 
+
+1.00 
+
+— 
+
+1.48 
+
+2.51 
+
+3.12 
+
+11.48 
+
+7.84 
+
+5.85 
+
+— 
+
+4.06 
+
+3.61 %  $ 
+
+10 
+
+29 
+
+12 
+
+— 
+
+51 
+
+138 
+
+29 
+
+46 
+
+4 
+
+9 
+
+— 
+
+226 
+
+277 
+
+11 
+
+44 
+
+1 
+
+— 
+
+56 
+
+188 
+
+31 
+
+41 
+
+1 
+
+7 
+
+— 
+
+268 
+
+324 
+
+97 
+
+  
+ 
+Note 5:  Loans and Allowance for Credit Losses (continued) 
+
+(in millions) 
+
+Principal (2) 
+
+Nine months ended September 30, 2016 
+
+Commercial: 
+
+Commercial and industrial 
+
+$ 
+
+Real estate mortgage 
+
+Real estate construction 
+
+Lease financing 
+
+Total commercial	 
+
+Consumer: 
+
+42 
+
+— 
+
+— 
+
+— 
+
+42 
+
+Real estate 1-4 family first mortgage 
+
+272 
+
+Real estate 1-4 family junior lien 
+
+mortgage 
+
+Credit card 
+
+Automobile 
+
+Other revolving credit and installment 
+
+Trial modifications (6) 
+
+Total consumer	 
+
+Total	 
+
+Nine months ended September 30, 2015 
+
+Commercial: 
+
+Commercial and industrial 
+
+Real estate mortgage 
+
+Real estate construction 
+
+Lease financing 
+
+Total commercial	 
+
+Consumer: 
+
+Real estate 1-4 family first mortgage 
+
+Real estate 1-4 family junior lien mortgage 
+
+Credit card 
+
+Automobile 
+
+Other revolving credit and installment 
+
+Trial modifications (6) 
+
+Total consumer	 
+
+Total	 
+
+$ 
+
+$ 
+
+$ 
+
+17 
+
+— 
+
+2 
+
+— 
+
+— 
+
+291 
+
+333 
+
+3 
+
+4 
+
+11 
+
+— 
+
+18 
+
+296 
+
+25 
+
+— 
+
+1 
+
+— 
+
+— 
+
+322 
+
+340 
+
+Primary modification type (1) 
+
+Financial effects of modifications 
+
+Interest 
+rate 
+reduction 
+
+Other 
+concessions (3) 
+
+Total 
+
+Charge-
+offs (4) 
+
+Weighted 
+average 
+interest 
+rate 
+reduction 
+
+Recorded 
+investment 
+related to 
+interest rate 
+reduction (5) 
+
+123 
+
+81 
+
+26 
+
+— 
+
+230 
+
+222 
+
+81 
+
+131 
+
+11 
+
+25 
+
+— 
+
+470 
+
+700 
+
+26 
+
+114 
+
+4 
+
+— 
+
+144 
+
+269 
+
+65 
+
+125 
+
+3 
+
+20 
+
+— 
+
+482 
+
+626 
+
+2,361 
+
+2,526 
+
+304 
+
+1.95%  $ 
+
+123 
+
+462 
+
+62 
+
+8 
+
+543 
+
+88 
+
+8 
+
+1 
+
+— 
+
+— 
+
+1.14 
+
+0.94 
+
+— 
+
+2,893 
+
+3,165 
+
+305 
+
+1.55 
+
+1,094 
+
+1,588 
+
+82 
+
+— 
+
+44 
+
+8 
+
+47 
+
+180 
+
+131 
+
+57 
+
+33 
+
+47 
+
+1,275 
+
+2,036 
+
+36 
+
+30 
+
+— 
+
+27 
+
+1 
+
+— 
+
+94 
+
+2.66 
+
+3.03 
+
+12.02 
+
+6.45 
+
+6.64 
+
+— 
+
+4.80 
+
+4,168 
+
+5,201 
+
+399 
+
+3.96%  $ 
+
+1,136 
+
+734 
+
+66 
+
+— 
+
+1,165 
+
+852 
+
+81 
+
+— 
+
+1,936 
+
+2,098 
+
+1,455 
+
+2,020 
+
+129 
+
+— 
+
+66 
+
+5 
+
+43 
+
+219 
+
+125 
+
+70 
+
+25 
+
+43 
+
+1,698 
+
+3,634 
+
+2,502 
+
+4,600 
+
+60 
+
+1 
+
+— 
+
+— 
+
+61 
+
+38 
+
+30 
+
+— 
+
+27 
+
+1 
+
+— 
+
+96 
+
+1.17 %  $ 
+
+1.55 
+
+0.77 
+
+— 
+
+1.46 
+
+2.53 
+
+3.17 
+
+11.36 
+
+8.59 
+
+5.85 
+
+— 
+
+4.21 
+
+157 
+
+3.76 %  $ 
+
+81 
+
+26 
+
+— 
+
+230 
+
+395 
+
+96 
+
+131 
+
+11 
+
+25 
+
+— 
+
+658 
+
+888 
+
+26 
+
+114 
+
+4 
+
+— 
+
+144 
+
+508 
+
+86 
+
+125 
+
+3 
+
+20 
+
+— 
+
+742 
+
+886 
+
+(1) 	 Amounts represent the recorded investment in loans after recognizing the effects of the TDR, if any. TDRs may have multiple types of concessions, but are presented only 
+
+once in the first modification type based on the order presented in the table above. The reported amounts include loans remodified of $484 million and $369 million, for 
+quarters ended September 30, 2016 and 2015, and $1.1 billion and $1.5 billion for the first nine months of 2016 and 2015, respectively. 
+
+(2) 	 Principal modifications include principal forgiveness at the time of the modification, contingent principal forgiveness granted over the life of the loan based on borrower 
+
+performance, and principal that has been legally separated and deferred to the end of the loan, with a zero percent contractual interest rate. 
+
+(3) 	 Other concessions include loan renewals, term extensions and other interest and noninterest adjustments, but exclude modifications that also forgive principal and/or 
+
+reduce the contractual interest rate. 
+
+(4) 	 Charge-offs include write-downs of the investment in the loan in the period it is contractually modified. The amount of charge-off will differ from the modification terms if 
+the loan has been charged down prior to the modification based on our policies. In addition, there may be cases where we have a charge-off/down with no legal principal 
+modification. Modifications resulted in legally forgiving principal (actual, contingent or deferred) of $16 million and $32 million for the quarters ended September 30, 2016 
+and 2015, and $54 million and $78 million for the first nine months of 2016 and 2015, respectively. 
+
+(5) 	 Reflects the effect of reduced interest rates on loans with an interest rate concession as one of their concession types, which includes loans reported as a principal primary 
+
+modification type that also have an interest rate concession. 
+
+(6) 	 Trial modifications are granted a delay in payments due under the original terms during the trial payment period. However, these loans continue to advance through 
+
+delinquency status and accrue interest according to their original terms. Any subsequent permanent modification generally includes interest rate related concessions; 
+however, the exact concession type and resulting financial effect are usually not known until the loan is permanently modified. Trial modifications for the period are 
+presented net of previously reported trial modifications that became permanent in the current period. 
+
+98 
+
+ 
+Table 5.18 summarizes permanent modification TDRs that 
+
+have defaulted in the current period within 12 months of their 
+permanent modification date. We are reporting these defaulted 
+TDRs based on a payment default definition of 90 days past due 
+for the commercial portfolio segment and 60 days past due for 
+the consumer portfolio segment. 
+
+Table 5.18:  Defaulted TDRs 
+
+(in millions) 
+
+Commercial: 
+
+Commercial and industrial 
+
+Real estate mortgage 
+
+Real estate construction 
+
+Total commercial 
+
+Consumer: 
+
+Real estate 1-4 family first mortgage 
+
+Real estate 1-4 family junior lien mortgage 
+
+Credit card 
+
+Automobile 
+
+Other revolving credit and installment 
+
+Total consumer 
+
+Total 
+
+Purchased Credit-Impaired Loans 
+Substantially all of our PCI loans were acquired from Wachovia 
+on December 31, 2008, at which time we acquired commercial 
+and consumer loans with a carrying value of $18.7 billion and 
+$40.1 billion, respectively. The unpaid principal balance on 
+December 31, 2008 was $98.2 billion for the total of commercial 
+and consumer PCI loans. Table 5.19 presents PCI loans net of any 
+remaining purchase accounting adjustments. Commercial and 
+industrial PCI loans at September 30, 2016, included $290 
+million from the GE Capital business acquisitions. Real estate 1-4 
+family first mortgage PCI loans are predominantly Pick-a-Pay 
+loans. 
+
+Table 5.19:  PCI Loans 
+
+(in millions) 
+
+Commercial: 
+
+Commercial and industrial 
+
+$ 
+
+Real estate mortgage 
+
+Real estate construction 
+
+Total commercial 
+
+Consumer: 
+
+Sep 30, 
+2016 
+
+Dec 31, 
+2015 
+
+367 
+
+410 
+
+60 
+
+837 
+
+78 
+
+542 
+
+92 
+
+712 
+
+Real estate 1-4 family first mortgage 
+
+16,830 
+
+19,190 
+
+Real estate 1-4 family junior lien 
+
+mortgage 
+
+Total consumer 
+
+42 
+
+69 
+
+16,872 
+
+19,259 
+
+Total PCI loans (carrying value) 
+
+$  17,709 
+
+19,971 
+
+Total PCI loans (unpaid principal balance) 
+
+$  25,423 
+
+28,278 
+
+Quarter ended September 30,  Nine months ended September 30, 
+
+2016 
+
+2015 
+
+2016 
+
+2015 
+
+Recorded investment of defaults 
+
+$ 
+
+39 
+
+7 
+
+— 
+
+46 
+
+36 
+
+6 
+
+15 
+
+4 
+
+— 
+
+61 
+
+$ 
+
+107 
+
+12 
+
+31 
+
+— 
+
+43 
+
+49 
+
+5 
+
+12 
+
+3 
+
+1 
+
+70 
+
+113 
+
+84 
+
+58 
+
+3 
+
+145 
+
+97 
+
+15 
+
+41 
+
+10 
+
+2 
+
+165 
+
+310 
+
+58 
+
+103 
+
+2 
+
+163 
+
+143 
+
+13 
+
+39 
+
+9 
+
+3 
+
+207 
+
+370 
+
+99 
+
+  
+ 
+  
+ 
+
