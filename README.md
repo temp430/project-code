@@ -51,11 +51,6 @@ The prerequisites to run this example are as follows:
 
 This part aims to predict whether a company will go bankrupt based on provided tabular data. We utilize two models for this task: TabNet and XGBoost.
 
-Online resources: 
-- TabNet - Optuna for fine-tuning (from [optuna-examples](https://github.com/optuna/optuna-examples/blob/main/tensorflow/tensorflow_estimator_simple.py))
-- TabNet - FeatureBlock (from [Ghost Batch Normalisation](https://github.com/ostamand/tensorflow-tabnet/blob/master/tabnet/models/gbn.py))
-- TabNet - Architecture (from [Codebase for "TabNet: Attentive Interpretable Tabular Learning"](https://github.com/google-research/google-research/tree/master/tabnet#codebase-for-tabnet-attentive-interpretable-tabular-learning))
-
 ### Dataset
 - `data/data.csv`
 
@@ -71,3 +66,13 @@ To successfully run the models and scripts in this repository, ensure you have t
 - `Python`: Version 3.10.13
 - `TensorFlow`: Version 2.10.1
 - `XGBoost`: Version 1.7.6
+
+### Online resources
+
+In the development of this part, we relied on several online resources, especially concerning the TabNet model's implementation, fine-tuning, and architectural understanding. Here are the specific resources we've utilized:
+
+- `TabNet - Optuna for fine-tuning`: This resource is taken from optuna-examples and has been instrumental in the hyperparameter optimization and fine-tuning of our TabNet model. [optuna-examples](https://github.com/optuna/optuna-examples/blob/main/tensorflow/tensorflow_estimator_simple.py)
+- `TabNet - FeatureBlock`: Derived from the concept of Ghost Batch Normalisation. This concept has played a significant role in structuring and organizing the features used within our TabNet model. [Ghost Batch Normalisation](https://github.com/ostamand/tensorflow-tabnet/blob/master/tabnet/models/gbn.py)
+- `TabNet - Architecture`: To understand and implement the core architecture of TabNet, we referred to the codebase for the paper "TabNet: Attentive Interpretable Tabular Learning". [Codebase for "TabNet: Attentive Interpretable Tabular Learning"](https://github.com/google-research/google-research/tree/master/tabnet#codebase-for-tabnet-attentive-interpretable-tabular-learning)
+
+We express our gratitude to the authors and contributors of these resources, as they have been pivotal in the success of our project.
